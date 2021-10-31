@@ -23,7 +23,7 @@ In most of the organizationss, the employees are selected based on resumes which
 ![](ScreenShots/Resumeuploadwebsite.PNG)</br></br>
 
 ## Authors
-- [Sayali Pawar](https://github.com/sayaliipawar)
+- [Namrata Bomble](https://github.com/namratabomble)
 
 
 
